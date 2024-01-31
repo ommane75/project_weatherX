@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="git_link">
+        Source Code Available at <a href = "https://github.com/ommane75">GitHub</a>
+    </string>
+    <string name="button">
+        <a href = "https://github.com/ommane75">button</a>
+    </string>
+    <string name="about">
+        WeatherX is simple android application to show the current weather and forecast of the day using weatherapi.com API.
+    </string>
+    <string name="author">
+        Ayub Ali Emon
+        and
+        Phonesamay Phoutthavong
+    </string>
+</resources>
